@@ -8,6 +8,7 @@
           contain
           height="200"
         />
+        <p>hello</p>
       </v-col>
 
       <v-col class="mb-4">
